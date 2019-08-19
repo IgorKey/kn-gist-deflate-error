@@ -1,0 +1,4 @@
+---
+int checkEx(int errCode, char* fname){
+    return 0;
+}
